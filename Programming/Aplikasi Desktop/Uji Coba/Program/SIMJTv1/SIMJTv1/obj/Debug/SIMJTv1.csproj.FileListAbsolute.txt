@@ -1,0 +1,10 @@
+E:\KAMPUS\Kuliah ITS\KP\Uji Coba\Program\SIMJTv1\SIMJTv1\bin\Debug\SIMJTv1.exe.config
+E:\KAMPUS\Kuliah ITS\KP\Uji Coba\Program\SIMJTv1\SIMJTv1\obj\Debug\SIMJTv1.csprojResolveAssemblyReference.cache
+E:\KAMPUS\Kuliah ITS\KP\Uji Coba\Program\SIMJTv1\SIMJTv1\obj\Debug\SIMJTv1.Register.resources
+E:\KAMPUS\Kuliah ITS\KP\Uji Coba\Program\SIMJTv1\SIMJTv1\obj\Debug\SIMJTv1.Properties.Resources.resources
+E:\KAMPUS\Kuliah ITS\KP\Uji Coba\Program\SIMJTv1\SIMJTv1\obj\Debug\SIMJTv1.csproj.GenerateResource.Cache
+E:\KAMPUS\Kuliah ITS\KP\Uji Coba\Program\SIMJTv1\SIMJTv1\bin\Debug\SIMJTv1.exe
+E:\KAMPUS\Kuliah ITS\KP\Uji Coba\Program\SIMJTv1\SIMJTv1\bin\Debug\SIMJTv1.pdb
+E:\KAMPUS\Kuliah ITS\KP\Uji Coba\Program\SIMJTv1\SIMJTv1\bin\Debug\MySql.Data.Entity.dll
+E:\KAMPUS\Kuliah ITS\KP\Uji Coba\Program\SIMJTv1\SIMJTv1\obj\Debug\SIMJTv1.exe
+E:\KAMPUS\Kuliah ITS\KP\Uji Coba\Program\SIMJTv1\SIMJTv1\obj\Debug\SIMJTv1.pdb
